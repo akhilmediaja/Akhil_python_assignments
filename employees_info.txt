@@ -1,0 +1,11 @@
+id, name, age, address, sal, height, weight
+101, Akhil, 28, 123 Main St, Warangal, 50000, 5'9", 70 kg
+102, Priya Sharma, 25, 456 Green St, Hyderabad, 45000, 5'5", 58 kg
+103, Rahul Verma, 30, 789 Maple Ave, Bangalore, 60000, 6'0", 78 kg
+104, Neha Patel, 27, 321 Oak Dr, Pune, 55000, 5'4", 60 kg
+105, Sameer Khan, 32, 654 Pine Rd, Mumbai, 62000, 5'10", 82 kg
+106, Kavita Joshi, 29, 876 Birch Ln, Chennai, 48000, 5'3", 65 kg
+107, Ramesh Iyer, 40, 234 Cedar St, Kolkata, 70000, 5'8", 85 kg
+108, Anjali Kapoor, 24, 567 Willow Blvd, Delhi, 52000, 5'7", 55 kg
+109, Vikram Singh, 35, 890 Poplar Rd, Chandigarh, 75000, 6'2", 90 kg
+110, Sneha Nair, 26, 123 Ash St, Kochi, 47000, 5'6", 58 kg

@@ -1,0 +1,1 @@
+{'name': 'Akhil', 'age': 26, 'tech': 'Python'}
