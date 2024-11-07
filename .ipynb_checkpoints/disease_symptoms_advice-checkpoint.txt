@@ -1,0 +1,4 @@
+disease::symptoms::advice
+Common Cold:: Runny or stuffy nose, sore throat, cough, mild fever, fatigue :: Paracetamol (for fever), antihistamines (e.g., cetirizine), and decongestants (e.g., pseudoephedrine)
+Flu (Influenza)::High fever, muscle aches, chills, sore throat, fatigue, cough::Antiviral drugs (e.g., oseltamivir), acetaminophen or ibuprofen (for fever and aches)
+Hypertension (High Blood Pressure)::Often asymptomatic; may include headaches, dizziness, or blurred vision::ACE inhibitors (e.g., lisinopril), beta-blockers (e.g., metoprolol), diuretics (e.g., hydrochlorothiazide)
